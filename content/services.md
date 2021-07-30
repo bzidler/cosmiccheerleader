@@ -24,7 +24,7 @@ Wow. That was nice, right? Well, call me and let us talk.
 
 ## Energy forecasts, random animal videos, uplifting content
 
-Did you see the picture above? I can show you how to go from
+Did you see the picture with tarot cards above? I can show you how to go from
 
 ![Let us get started on a clean slate](../images/pigeons.png)
 
