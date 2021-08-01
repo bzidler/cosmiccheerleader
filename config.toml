@@ -27,8 +27,8 @@ defaultContentLanguage = "en"
   [languages.fr.navigation]
     help = "Aide"
     
-[permalinks]
-    posts = "/:section/:slug/"
+#[permalinks]
+#    posts = "/:section/:slug/"
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.
