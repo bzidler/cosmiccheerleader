@@ -20,7 +20,7 @@ Wow. That was nice, right? Well, call me and let us talk.
 
 ## Energy forecasts, random animal videos, uplifting content
 
-Look at the picture of confused Alice (by Arthur Rackham). I can help to clarify your thoughs and reorder the cards of your life
+Look at the picture of confused Alice (by Arthur Rackham). I can help to clarify your thoughts and reorder the cards of your life
 
 ![Let us get started on a clean slate](images/Alice_cards.jpg)
 

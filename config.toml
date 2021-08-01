@@ -1,16 +1,34 @@
-baseURL = "https://brave-fermat-0bfb8a.netlify.app/"
-#baseURL = "https:/cosmiccheerleader.co.uk"
+#baseURL = "https://brave-fermat-0bfb8a.netlify.app/"
+baseURL = "https://localhost.com"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
-defaultContentLanguage = "en"
-
 # The name of this wonderful theme ;-).
 theme = "hugo-scroll"
 
-# The "title" of your website
-title = "Sandrine Marquet - Divinatrice & tireuse de cartes"
+defaultContentLanguage = "en"
+
+[languages]
+    [languages.navigation]
+    help = "Help"
+    
+    [languages.en]
+    languageName = "English"
+    # The "title" of your website
+    title = "Sandrine Marquet - Tarot & Magic"
+    weight = 1
+    
+  [languages.fr]
+    languageName = "Francais"
+    title = "Sandrine Marquet - Divinatrice & tireuse de cartes"
+    weight = 2
+ #   staticDir = "static/en"
+  [languages.fr.navigation]
+    help = "Aide"
+    
+[permalinks]
+    posts = "/:section/:slug/"
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.
@@ -40,3 +58,7 @@ title = "Sandrine Marquet - Divinatrice & tireuse de cartes"
 
     [params.meta]
         keywords = "tarot, future, voyance, fortune, divination, prediction, prophecy, magic, sortilege, misticism"
+
+
+    
+    
