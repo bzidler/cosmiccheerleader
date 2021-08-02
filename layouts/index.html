@@ -1,0 +1,47 @@
+{{ define "main" }}
+{{ $headless := .Site.GetPage "/homepage" }}
+{{ $sections := $headless.Resources.ByType "page" }}
+<header id="site-head" {{ with .Params.header_image }}style="background-image: url({{ . }})"{{ end }}>
+    <div class="vertical">
+    
+      <!-- Modif JP -->
+      <div class="inner" style="text-align: right;">
+        {{ if eq .Lang "en"  }}
+        <a href="{{.Site.BaseURL}}/fr" class='btn' style="padding: 0px 20px 0px 20px; color: black;font-size: 1rem;" ><i class="fa fa-globe" aria-hidden="true"></i> French</a>
+        {{ else  }}
+        <a href="{{.Site.BaseURL}}" class='btn' style="padding: 0px 20px 0px 20px; color: black; font-size: 1rem;" ><i class="fa fa-globe" aria-hidden="true"></i> Anglais</a>
+        {{ end }}
+      </div>
+      <!-- Modif JP -->
+        
+        <div id="site-head-content" class="inner">
+
+            {{ with .Params.header_headline }}<h1 class="blog-title head_text_color">{{ . }}</h1>{{ end }}
+            {{ with .Params.header_subheadline }}<h2 class="blog-description head_text_color">{{ . }}</h2>{{ end }}
+
+            {{ range where $sections ".Params.header_menu" "eq" true }}
+                 <a class='btn site-menu' data-title-anchor='{{ anchorize .Title }}'>{{ .Title }}</a>
+            {{ end }}
+            <i id='header-arrow' class="fa fa-angle-down"></i>
+        </div>
+    </div>
+</header>
+<main class="content" role="main">
+
+    <div class='fixed-nav'>
+    </div>
+    {{ range $index_val, $elem_val := $sections }}
+        <div class='post-holder'>
+            <article id='{{ anchorize .Title }}' class='post {{ if eq $index_val 0 }}first{{ else }}{{ if eq (add $index_val 1) (len $sections) }}last{{ end }}{{ end }}'>
+                <header class="post-header">
+                    <h2 class="post-title">{{ .Title }}</h2>
+                </header>
+                <section class="post-content">
+                    {{ .Content }}
+                </section>
+            </article>
+            <div class='post-after'></div>
+        </div>
+    {{ end }}
+</main>
+{{ end }}
