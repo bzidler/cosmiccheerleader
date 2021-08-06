@@ -1,5 +1,5 @@
-baseURL = "http://cosmiccheerleader.co.uk"
-#baseURL = "https://brave-fermat-0bfb8a.netlify.app/"
+#baseURL = "https://cosmiccheerleader.co.uk"
+baseURL = "https://brave-fermat-0bfb8a.netlify.app/"
 #baseURL = "https://localhost.com"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
