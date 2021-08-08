@@ -4,13 +4,13 @@ weight: 2
 header_menu: true
 ---
 
-C'est la partie importante, non? Vous voulez savoir ce que je peux faire pour vous. C'est pourquoi j'ai mis cela dans le menu d'en-tête du site Web. 
+C'est la partie importante, non? Vous voulez savoir ce que je peux faire pour vous. Précisons donc ce que je peux vous apporter comme assistance et soutien.
 
 ---
 
 ## Tarot et clairvoyance
 
-Ce n'est pas une tâche facile. Vous devrez probablement payer de l'argent pour cela. Vous savez quoi - regardons d'abord une belle image. 
+Ce n'est pas une tâche facile. Vous devrez probablement payer un peu d'argent pour cela. Vous savez quoi - regardons d'abord une belle image. 
 
 ![Nice picture to make you pay me ;-)](/images/Screenshot_20210727_095450.png)<img src = "/images/Screenshot_20210727_095450.png">
 

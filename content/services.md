@@ -32,4 +32,4 @@ to
 
 ![Let us get started on a clean slate](../images/uplifting-things-to-do-today-1-728.jpg)
 
-in estimated seconds.
+After exposing me your problem, or concerns and questions, I will provide an analysis report to help you consolidate your energy and support you in your choices. It is an assistance, a kind of friendly helping hand to come to the rescue in a moment of indecision.
