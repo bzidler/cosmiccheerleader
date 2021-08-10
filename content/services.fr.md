@@ -34,4 +34,4 @@ Avez-vous vu la photo avec les cartes de tarot ci-dessus ? Je peux vous montrer 
 ![Let us get started on a clean slate](/images/uplifting-things-to-do-today-1-728.jpg)<img src = "/images/uplifting-things-to-do-today-1-728.jpg">
 
 
-Après m'avoir exposé votre problème, ou soucis et interrogations, je fournirai un rapport d'analyse vous assistant à consolider votre énergie et vous épaulant dans vos choix. Il s'agit d'une assistance, une sorte de coup de main amical pour venir à la rescousse dans un moment d'indécision.
+Après m'avoir exposé votre problème, ou soucis et interrogations, je fournirai un rapport d'analyse vous aidant à consolider votre énergie et vous épaulant dans vos choix. Il s'agit d'une assistance, une sorte de coup de main amical pour venir à la rescousse dans un moment d'indécision.
