@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://localhost.com/navigation/</loc>
+    <loc>https://cosmiccheerleader.co.uk/navigation/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://localhost.com/"
+                href="https://cosmiccheerleader.co.uk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://localhost.com/fr/"
+                href="https://cosmiccheerleader.co.uk/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="navigation"
-                href="https://localhost.com/navigation/"
+                href="https://cosmiccheerleader.co.uk/navigation/"
                 />
   </url>
 </urlset>

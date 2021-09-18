@@ -4,7 +4,7 @@ title: "Services"
 
 This is a page about the services, which I offer.
 
-It carries a lot more detail than what I put on the homepage - I swear!
+It carries a lot more details than what I put on the homepage - I swear!
 
 You want to know what I can do for you?
 
@@ -22,7 +22,7 @@ Wow. That was nice, right? Well, call me and let us talk.
 
 ---
 
-## Energy forecasts, random animal videos, uplifting content
+## Energy forecasts, personalised guidance, astrology
 
 Did you see the picture with tarot cards above? I can show you how to go from
 

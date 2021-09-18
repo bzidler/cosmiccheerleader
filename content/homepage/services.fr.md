@@ -19,7 +19,7 @@ Wow. C'était sympa, non ? Eh bien, appelez-moi et parlons en.
 
 ---
 
-## Energie renfort, videos animales, contenu creatif
+## Prévisions énergetiques, guidance personnalisée
 
 Regardez la photo d'Alice confuse (par Arthur Rackham). Je peux vous aider à clarifier vos pensées et à réorganiser les cartes de votre vie 
 
@@ -35,7 +35,7 @@ in estimated seconds.
 [<button>Click me</button>](https://example.com)
 -->
 
-Voici maintenant le bouton Paypal vous permettant de payer ma consultation : 
+Voici maintenant le bouton Paypal vous permettant de payer ma consultation (€60) : 
 
 [![paypal](https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VB9JR6R364LMS)
 
@@ -43,4 +43,4 @@ Voici maintenant le bouton Paypal vous permettant de payer ma consultation :
 
 Vous voulez en savoir plus sur mes services ?
 
-Consultez [cette page](services) que j'ai créé. Elle contient beaucoup plus de détails... 
+Consultez [cette page](services) que j'ai créée. Elle contient beaucoup plus de détails... 

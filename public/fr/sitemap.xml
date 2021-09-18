@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://localhost.com/fr/</loc>
+    <loc>https://cosmiccheerleader.co.uk/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://localhost.com/"
+                href="https://cosmiccheerleader.co.uk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="navigation"
-                href="https://localhost.com/navigation/"
+                href="https://cosmiccheerleader.co.uk/navigation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://localhost.com/fr/"
+                href="https://cosmiccheerleader.co.uk/fr/"
                 />
   </url><url>
-    <loc>https://localhost.com/fr/services/</loc>
+    <loc>https://cosmiccheerleader.co.uk/fr/services/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://localhost.com/services/"
+                href="https://cosmiccheerleader.co.uk/services/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://localhost.com/fr/services/"
+                href="https://cosmiccheerleader.co.uk/fr/services/"
                 />
   </url>
 </urlset>

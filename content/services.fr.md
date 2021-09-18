@@ -22,7 +22,7 @@ Wow. C'était sympa, non ? Eh bien, appelez-moi et parlons en.
 
 ---
 
-## Energie renfort, videos animales, contenu creatif
+## Prévisions énergetiques, guidance personnalisée, astrologie
 
 Avez-vous vu la photo avec les cartes de tarot ci-dessus ? Je peux vous montrer comment passer de 
 
